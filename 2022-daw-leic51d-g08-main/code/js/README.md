@@ -1,0 +1,1 @@
+Para correr o projeto, deverá abrir o mesmo no IntelliJ correndo o main.kt e o restartSQL. Posteriormente deverá abrir o VSCode com a pasta "js" que se encontra neste projeto e correr o comando "npm star".

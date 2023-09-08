@@ -1,0 +1,1 @@
+A documentação necessária para criar uma aplicação frontend client implementado esta API HTTP encontra-se disponível no ficheiro Documentação Necessária para Aplicação Frontend Client.pdf e a documentação sobre a organização do software deste projeto encontra-se disponível em Organização do Software de Backend.pdf.

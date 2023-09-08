@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">PDM_Battleship</string>
+
+    <string name="error_api_title">Error accessing the server</string>
+    <string name="error_retry_button_text">Retry</string>
+    <string name="error_exit_button_text">Exit</string>
+    <string name="error_unknown_api_response">Please ensure the application is updated</string>
+    <string name="error_could_not_reach_api">Please check if the device is connected to the internet</string>
+
+    <string name="error_login_title">Login Failed</string>
+    <string name="error_login_message">Username or Password incorrect</string>
+    <string name="error_close_button_text">Close</string>
+
+    <string name="error_register_title">Register Failed</string>
+    <string name="error_register_message">Username already used or Confirm password is different</string>
+    <string name="error_register_passNotEqual_message">The Password and Confirm Password are different</string>
+
+    <string name="success_register_title">Register Success</string>
+    <string name="success_register_message">Now you are Battle Ship user</string>
+    <string name="confirm_close_button_text">Confirm</string>
+
+    <string name="error_waitingRoom_title">Match Making Failed</string>
+    <string name="error_Game_title">Game Failed</string>
+
+    <string name="undefined_title">Undefined Title</string>
+    <string name="undefined_message">Undefined Message</string>
+
+    <string name="timeCounter">120000</string>
+
+    <string name="win">You Win</string>
+    <string name="lose">You Lose</string>
+    <string name="win_message">You Win The Game</string>
+    <string name="lose_message">You Lose The Game</string>
+
+    <string name="invalid_position_title">Invalid Position</string>
+    <string name="invalid_position_message">Can not put ship here</string>
+
+</resources>
