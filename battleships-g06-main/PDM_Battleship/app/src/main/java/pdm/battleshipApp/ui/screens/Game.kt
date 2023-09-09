@@ -212,9 +212,9 @@ fun StartScreen(
                         }
                     }
                 }
-                if (isMyTurn && checkTimer(timerText) && !timeAlert) time = true
-                if (time && !timeAlert) {
-                    timeAlert = true
+                if (isMyTurn && timerText == "15" /*&& !timeAlert*/) time = true
+                if (time/* && !timeAlert*/) {
+                    //timeAlert = true
                     AlertDialog(
                         onDismissRequest = { time = false },
                         title = { Text(text = "POUCO TEMPO PARA JOGAR!", color = Color.Red) },
